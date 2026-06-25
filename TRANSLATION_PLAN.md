@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：35
+- 已创建中文 Markdown 文件数：43
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -59,7 +59,8 @@ docs/zh/get-started/learning-paths.md
 | 2.3.1 | `build/manage-workflows/` | 已完成 | 工作流管理 |
 | 2.3.2 | `build/understand-workflows/` 顶层 | 已完成 | 工作流概念、创建、credential、保存发布 |
 | 2.3.3 | `build/understand-workflows/workflow-components/` | 已完成 | 工作流组件 |
-| 2.3.4 | `build/understand-workflows/understand-executions/`、`ways-of-building-workflows/` | 未开始 | 执行概念和构建方式 |
+| 2.3.4 | `build/understand-workflows/understand-executions/` | 已完成 | 执行概念、列表、调试和重试 |
+| 2.3.5 | `build/ways-of-building-workflows/` | 未开始 | 构建工作流的方式 |
 | 2.4 | `build/work-with-data/` | 未开始 | 数据处理，文件较多需继续拆分 |
 | 2.5 | `build/code-in-n8n/` | 未开始 | Code node 和代码辅助 |
 | 2.6 | `build/integrate-ai/` | 未开始 | AI 集成，文件较多需继续拆分 |
