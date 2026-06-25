@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：484
+- 已创建中文 Markdown 文件数：488
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -159,7 +159,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.65 | `integrations/builtin/app-nodes/` 第六十五批 | 已完成 | Alibaba Cloud Model Studio、Anthropic、Google Gemini、MiniMax、Moonshot Kimi、Perplexity |
 | 3.6.1 | `integrations/builtin/trigger-nodes/` 第一批 | 已完成 | README、ActiveCampaign Trigger、Acuity Scheduling Trigger、Affinity Trigger |
 | 3.6.2 | `integrations/builtin/trigger-nodes/` 第二批 | 已完成 | Airtable Trigger、AMQP Trigger、Asana Trigger、Autopilot Trigger |
-| 3.6.3 | `integrations/builtin/trigger-nodes/` 后续批次 | 未开始 | Trigger node 参考，按服务首字母拆分 |
+| 3.6.3 | `integrations/builtin/trigger-nodes/` 第三批 | 已完成 | AWS SNS Trigger、Bitbucket Trigger、Box Trigger、Brevo Trigger |
+| 3.6.4 | `integrations/builtin/trigger-nodes/` 后续批次 | 未开始 | Trigger node 参考，按服务首字母拆分 |
 | 3.7 | `integrations/builtin/cluster-nodes/`、`credentials/` | 未开始 | Cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
