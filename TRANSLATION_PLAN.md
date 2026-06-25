@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：132
+- 已创建中文 Markdown 文件数：136
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -74,7 +74,12 @@ docs/zh/get-started/learning-paths.md
 | 2.6.2 | `build/integrate-ai/understand-ai-components/` | 已完成 | AI 组件概念、agent、chain、memory、tool、vector 和 RAG |
 | 2.6.3 | `build/integrate-ai/ai-examples/` | 已完成 | API、Google Sheets、网站内容、人工兜底、HITL、$fromAI() 示例 |
 | 2.6.4 | `build/integrate-ai/test-and-improve-ai-workflows/` | 已完成 | AI workflow 测试、轻量 evaluation、metric evaluation 和常见问题 |
-| 3 | `integrations/` | 未开始 | 文件最多，需按节点类型拆分 |
+| 3.1 | `integrations/` 顶层、`builtin/README.md`、`community-nodes/README.md` | 已完成 | 集成入口、导航骨架、内置 node 和社区 node 索引 |
+| 3.2 | `integrations/builtin/` 顶层参考页 | 未开始 | node 类型、自定义 API action、速率限制、弃用 node |
+| 3.3 | `integrations/community-nodes/` | 未开始 | 社区 node 安装、风险、封禁列表、故障排查和构建 |
+| 3.4 | `integrations/builtin/core-nodes/` | 未开始 | Core node 参考 |
+| 3.5 | `integrations/builtin/app-nodes/` | 未开始 | App node 参考，需按服务首字母拆分 |
+| 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
