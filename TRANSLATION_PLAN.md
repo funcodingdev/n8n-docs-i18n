@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：335
+- 已创建中文 Markdown 文件数：339
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -123,7 +123,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.29 | `integrations/builtin/app-nodes/` 第二十九批 | 已完成 | Iterable、Jenkins、Jina AI、Jira Software |
 | 3.5.30 | `integrations/builtin/app-nodes/` 第三十批 | 已完成 | Kafka、Keap、Kitemaker、KoboToolbox |
 | 3.5.31 | `integrations/builtin/app-nodes/` 第三十一批 | 已完成 | Lemlist、Line、Linear、LingvaNex |
-| 3.5.32 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.32 | `integrations/builtin/app-nodes/` 第三十二批 | 已完成 | LinkedIn、LoneScale、Magento 2、Mailcheck |
+| 3.5.33 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
