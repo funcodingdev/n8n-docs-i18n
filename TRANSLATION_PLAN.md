@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：621
+- 已创建中文 Markdown 文件数：625
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -195,7 +195,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.15 | `integrations/builtin/cluster-nodes/sub-nodes/` 第五批 | 已完成 | Cohere、DeepSeek、Google Gemini、Google Vertex、Groq Chat Model |
 | 3.7.16 | `integrations/builtin/cluster-nodes/sub-nodes/` 第六批 | 已完成 | Lemonade、MiniMax、Mistral Cloud、Moonshot Kimi、NVIDIA Nemotron Chat Model |
 | 3.7.17 | `integrations/builtin/cluster-nodes/sub-nodes/` 第七批 | 已完成 | OpenRouter、Vercel AI Gateway、xAI Grok Chat Model |
-| 3.7.18 | `integrations/builtin/cluster-nodes/sub-nodes/` 后续批次 | 未开始 | Ollama、OpenAI chat model 目录及后续 sub-nodes |
+| 3.7.18 | `integrations/builtin/cluster-nodes/sub-nodes/` 第八批 | 已完成 | Ollama、OpenAI Chat Model README 和 common issues；chat model sub-nodes 已完成 |
+| 3.7.19 | `integrations/builtin/cluster-nodes/sub-nodes/` 后续批次 | 未开始 | 非 chat model 的 LM、memory、output parser、retriever 等 sub-nodes |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
