@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：736
+- 已创建中文 Markdown 文件数：740
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -216,7 +216,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.10 | `integrations/builtin/credentials/` 第十批 | 已完成 | CrowdStrike、Customer.io、Databricks、Datadog |
 | 3.8.11 | `integrations/builtin/credentials/` 第十一批 | 已完成 | DeepL、DeepSeek、Demio、DFIR-IRIS、DHL、Discord |
 | 3.8.12 | `integrations/builtin/credentials/` 第十二批 | 已完成 | Discourse、Disqus、Drift、Dropbox、Dropcontact、Dynatrace |
-| 3.8.13 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.13 | `integrations/builtin/credentials/` 第十三批 | 已完成 | E-goi、Elasticsearch、Elastic Security、Emelia |
+| 3.8.14 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
