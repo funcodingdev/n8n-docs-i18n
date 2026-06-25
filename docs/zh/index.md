@@ -28,5 +28,6 @@
 - [引用数据](build/work-with-data/reference-data/README.md)
 - [转换数据](build/work-with-data/transform-data/README.md)
 - [处理特殊数据类型](build/work-with-data/handle-special-data-types/README.md)
+- [n8n 中的代码](build/code-in-n8n/README.md)
 
 更多页面会按仓库根目录的 `TRANSLATION_PLAN.md` 分批补齐。
