@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：136
+- 已创建中文 Markdown 文件数：140
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -75,7 +75,7 @@ docs/zh/get-started/learning-paths.md
 | 2.6.3 | `build/integrate-ai/ai-examples/` | 已完成 | API、Google Sheets、网站内容、人工兜底、HITL、$fromAI() 示例 |
 | 2.6.4 | `build/integrate-ai/test-and-improve-ai-workflows/` | 已完成 | AI workflow 测试、轻量 evaluation、metric evaluation 和常见问题 |
 | 3.1 | `integrations/` 顶层、`builtin/README.md`、`community-nodes/README.md` | 已完成 | 集成入口、导航骨架、内置 node 和社区 node 索引 |
-| 3.2 | `integrations/builtin/` 顶层参考页 | 未开始 | node 类型、自定义 API action、速率限制、弃用 node |
+| 3.2 | `integrations/builtin/` 顶层参考页 | 已完成 | node 类型、自定义 API action、速率限制、弃用/移除/版本化 node |
 | 3.3 | `integrations/community-nodes/` | 未开始 | 社区 node 安装、风险、封禁列表、故障排查和构建 |
 | 3.4 | `integrations/builtin/core-nodes/` | 未开始 | Core node 参考 |
 | 3.5 | `integrations/builtin/app-nodes/` | 未开始 | App node 参考，需按服务首字母拆分 |
