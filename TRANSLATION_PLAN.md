@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：504
+- 已创建中文 Markdown 文件数：508
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -164,7 +164,8 @@ docs/zh/get-started/learning-paths.md
 | 3.6.5 | `integrations/builtin/trigger-nodes/` 第五批 | 已完成 | ClickUp Trigger、Clockify Trigger、ConvertKit Trigger、Copper Trigger |
 | 3.6.6 | `integrations/builtin/trigger-nodes/` 第六批 | 已完成 | crowd.dev Trigger、Customer.io Trigger、Emelia Trigger、Eventbrite Trigger |
 | 3.6.7 | `integrations/builtin/trigger-nodes/` 第七批 | 已完成 | Facebook Lead Ads Trigger、Figma Trigger、Flow Trigger、Form.io Trigger |
-| 3.6.8 | `integrations/builtin/trigger-nodes/` 后续批次 | 未开始 | Trigger node 参考，按服务首字母拆分 |
+| 3.6.8 | `integrations/builtin/trigger-nodes/` 第八批 | 已完成 | Formstack Trigger、GetResponse Trigger、GitHub Trigger、GitLab Trigger |
+| 3.6.9 | `integrations/builtin/trigger-nodes/` 后续批次 | 未开始 | Trigger node 参考，按服务首字母拆分 |
 | 3.7 | `integrations/builtin/cluster-nodes/`、`credentials/` | 未开始 | Cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
