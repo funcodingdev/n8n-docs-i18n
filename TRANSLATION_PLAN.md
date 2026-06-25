@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：553
+- 已创建中文 Markdown 文件数：559
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -177,7 +177,7 @@ docs/zh/get-started/learning-paths.md
 | 3.6.18 | `integrations/builtin/trigger-nodes/` 第十八批 | 已完成 | Strava Trigger、Stripe Trigger、SurveyMonkey Trigger、Taiga Trigger |
 | 3.6.19 | `integrations/builtin/trigger-nodes/` 第十九批 | 已完成 | TheHive 5 Trigger、TheHive Trigger、Toggl Trigger、Trello Trigger |
 | 3.6.20 | `integrations/builtin/trigger-nodes/` 第二十批 | 已完成 | Twilio Trigger、Typeform Trigger、Venafi TLS Protect Cloud Trigger、Webflow Trigger |
-| 3.6.21 | `integrations/builtin/trigger-nodes/` 后续批次 | 未开始 | Trigger node 参考，按服务首字母拆分 |
+| 3.6.21 | `integrations/builtin/trigger-nodes/` 第二十一批 | 已完成 | WhatsApp Trigger、Wise Trigger、WooCommerce Trigger、Workable Trigger、Wufoo Trigger、Zendesk Trigger；trigger-nodes 已完成 |
 | 3.7 | `integrations/builtin/cluster-nodes/`、`credentials/` | 未开始 | Cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
