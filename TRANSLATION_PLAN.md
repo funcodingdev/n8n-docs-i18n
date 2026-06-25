@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：652
+- 已创建中文 Markdown 文件数：658
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -202,7 +202,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.22 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十二批 | 已完成 | Model Selector、Auto-fixing/Item List/Structured Output Parser |
 | 3.7.23 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十三批 | 已完成 | Reranker Cohere、Contextual Compression/MultiQuery/Vector Store/Workflow Retriever |
 | 3.7.24 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十四批 | 已完成 | Character、Recursive Character、Token Text Splitter |
-| 3.7.25 | `integrations/builtin/cluster-nodes/sub-nodes/` 后续批次 | 未开始 | tool sub-nodes |
+| 3.7.25 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十五批 | 已完成 | AI Agent Tool、Calculator、Custom Code、MCP Client、SearXNG、SerpApi |
+| 3.7.26 | `integrations/builtin/cluster-nodes/sub-nodes/` 后续批次 | 未开始 | 剩余 tool sub-nodes |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
