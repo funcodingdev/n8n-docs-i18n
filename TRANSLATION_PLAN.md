@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：676
+- 已创建中文 Markdown 文件数：682
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -206,7 +206,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.26 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十六批 | 已完成 | Think、Vector Store Question Answer、Wikipedia、Wolfram|Alpha、Call n8n Workflow Tool；cluster sub-nodes 已完成 |
 | 3.8.1 | `integrations/builtin/credentials/` 第一批 | 已完成 | README、Action Network、ActiveCampaign、Acuity Scheduling、Adalo、Affinity、Agile CRM |
 | 3.8.2 | `integrations/builtin/credentials/` 第二批 | 已完成 | Airtable、Airtop、Alibaba Cloud、AlienVault、AMQP、Anthropic |
-| 3.8.3 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.3 | `integrations/builtin/credentials/` 第三批 | 已完成 | APITemplate.io、Asana、Auth0 Management、Autopilot、AWS、Azure AI Search |
+| 3.8.4 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
