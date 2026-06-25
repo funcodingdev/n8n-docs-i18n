@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：663
+- 已创建中文 Markdown 文件数：670
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -204,7 +204,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.24 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十四批 | 已完成 | Character、Recursive Character、Token Text Splitter |
 | 3.7.25 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十五批 | 已完成 | AI Agent Tool、Calculator、Custom Code、MCP Client、SearXNG、SerpApi |
 | 3.7.26 | `integrations/builtin/cluster-nodes/sub-nodes/` 第十六批 | 已完成 | Think、Vector Store Question Answer、Wikipedia、Wolfram|Alpha、Call n8n Workflow Tool；cluster sub-nodes 已完成 |
-| 3.8.1 | `integrations/builtin/credentials/` 后续批次 | 未开始 | credentials 文档 |
+| 3.8.1 | `integrations/builtin/credentials/` 第一批 | 已完成 | README、Action Network、ActiveCampaign、Acuity Scheduling、Adalo、Affinity、Agile CRM |
+| 3.8.2 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
