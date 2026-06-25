@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：700
+- 已创建中文 Markdown 文件数：706
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -210,7 +210,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.4 | `integrations/builtin/credentials/` 第四批 | 已完成 | Azure Cosmos DB、Azure OpenAI、Azure Storage、BambooHR、Bannerbear、Baserow |
 | 3.8.5 | `integrations/builtin/credentials/` 第五批 | 已完成 | Beeminder、Bitbucket、Bitly、Bitwarden、Box、Brandfetch |
 | 3.8.6 | `integrations/builtin/credentials/` 第六批 | 已完成 | Brevo、Bubble、Cal.com、Calendly、Carbon Black、Chargebee |
-| 3.8.7 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.7 | `integrations/builtin/credentials/` 第七批 | 已完成 | Chroma、CircleCI、Cisco Meraki、Cisco Secure Endpoint、Cisco Umbrella、Webex by Cisco |
+| 3.8.8 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
