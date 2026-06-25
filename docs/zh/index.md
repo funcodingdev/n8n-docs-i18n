@@ -8,3 +8,17 @@
 - 简体中文：`docs/zh/get-started/learning-paths.md`
 
 顶部语言切换会按这个路径约定在英文和简体中文页面之间切换。
+
+## 已翻译内容
+
+- [n8n 文档入口](get-started/README.md)
+- [选择如何使用 n8n](get-started/choose-how-to-use-n8n.md)
+- [构建你的第一个工作流](get-started/build-your-first-workflow.md)
+- [学习路径](get-started/learning-paths.md)
+- [关键概念术语表](get-started/key-concept-glossary.md)
+- [构建](build/README.md)
+- [键盘快捷键](build/keyboard-shortcuts.md)
+- [流程逻辑](build/flow-logic/README.md)
+- [管理工作流](build/manage-workflows/README.md)
+
+更多页面会按仓库根目录的 `TRANSLATION_PLAN.md` 分批补齐。
