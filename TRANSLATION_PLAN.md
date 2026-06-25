@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：782
+- 已创建中文 Markdown 文件数：789
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -225,7 +225,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.19 | `integrations/builtin/credentials/` 第十八批 | 已完成 | Google Gemini(PaLM)、Gotify、GoToWebinar、Grafana、Grist、Groq |
 | 3.8.20 | `integrations/builtin/credentials/` 第十九批 | 已完成 | Gumroad、HaloPSA、Harvest、Help Scout、HighLevel、Home Assistant |
 | 3.8.21 | `integrations/builtin/credentials/` 第二十批 | 已完成 | HTTP Request、HubSpot、Hugging Face |
-| 3.8.22 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.22 | `integrations/builtin/credentials/` 第二十一批 | 已完成 | Humantic AI、Hunter、Hybrid Analysis、IMAP README/Gmail/Outlook/Yahoo |
+| 3.8.23 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
