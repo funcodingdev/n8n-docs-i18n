@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：263
+- 已创建中文 Markdown 文件数：267
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -105,7 +105,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.11 | `integrations/builtin/app-nodes/` 第十一批 | 已完成 | Webex by Cisco、Clearbit、ClickUp、Clockify |
 | 3.5.12 | `integrations/builtin/app-nodes/` 第十二批 | 已完成 | Cloudflare、Cockpit、Coda、CoinGecko |
 | 3.5.13 | `integrations/builtin/app-nodes/` 第十三批 | 已完成 | Contentful、ConvertKit、Copper、Cortex |
-| 3.5.14 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.14 | `integrations/builtin/app-nodes/` 第十四批 | 已完成 | CrateDB、crowd.dev、Customer.io、Databricks |
+| 3.5.15 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
