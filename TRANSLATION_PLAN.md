@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：65
+- 已创建中文 Markdown 文件数：68
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -63,8 +63,9 @@ docs/zh/get-started/learning-paths.md
 | 2.3.5 | `build/ways-of-building-workflows/` | 已完成 | 构建工作流的方式、MCP、AI assistant |
 | 2.4.1 | `build/work-with-data/` 顶层 | 已完成 | 数据处理概览、data tables、pin/mock、数据结构 |
 | 2.4.2 | `build/work-with-data/reference-data/` | 已完成 | 引用数据和 item linking |
-| 2.4.3 | `build/work-with-data/transform-data/` | 未开始 | 转换数据 |
-| 2.4.4 | `build/work-with-data/handle-special-data-types/` | 未开始 | 特殊数据类型 |
+| 2.4.3 | `build/work-with-data/transform-data/` 顶层 | 已完成 | 转换数据概览和 expression 转换 |
+| 2.4.4 | `build/work-with-data/transform-data/expression-reference/` | 未开始 | Expression 参考 |
+| 2.4.5 | `build/work-with-data/handle-special-data-types/` | 未开始 | 特殊数据类型 |
 | 2.5 | `build/code-in-n8n/` | 未开始 | Code node 和代码辅助 |
 | 2.6 | `build/integrate-ai/` | 未开始 | AI 集成，文件较多需继续拆分 |
 | 3 | `integrations/` | 未开始 | 文件最多，需按节点类型拆分 |
