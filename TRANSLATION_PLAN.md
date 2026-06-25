@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：458
+- 已创建中文 Markdown 文件数：462
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -153,7 +153,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.59 | `integrations/builtin/app-nodes/` 第五十九批 | 已完成 | Twist、X (Formerly Twitter)、Unleashed Software、UpLead |
 | 3.5.60 | `integrations/builtin/app-nodes/` 第六十批 | 已完成 | uProc、UptimeRobot、urlscan.io、Venafi TLS Protect Cloud |
 | 3.5.61 | `integrations/builtin/app-nodes/` 第六十一批 | 已完成 | Venafi TLS Protect Datacenter、Vero、Vonage、Webflow |
-| 3.5.62 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.62 | `integrations/builtin/app-nodes/` 第六十二批 | 已完成 | Wekan、Wise、WooCommerce、WordPress |
+| 3.5.63 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
