@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：589
+- 已创建中文 Markdown 文件数：590
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -187,7 +187,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.7 | `integrations/builtin/cluster-nodes/` 第七批 | 已完成 | Pinecone Vector Store、Qdrant Vector Store |
 | 3.7.8 | `integrations/builtin/cluster-nodes/` 第八批 | 已完成 | Redis Vector Store、Supabase Vector Store |
 | 3.7.9 | `integrations/builtin/cluster-nodes/` 第九批 | 已完成 | Weaviate Vector Store、Zep Vector Store |
-| 3.7.10 | `integrations/builtin/cluster-nodes/` 后续批次 | 未开始 | Cluster node 和 credential |
+| 3.7.10 | `integrations/builtin/cluster-nodes/` 第十批 | 已完成 | Azure AI Search Vector Store；root vector stores 已完成 |
+| 3.7.11 | `integrations/builtin/cluster-nodes/sub-nodes/` 后续批次 | 未开始 | Sub-node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
