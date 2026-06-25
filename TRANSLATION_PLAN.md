@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：83
+- 已创建中文 Markdown 文件数：85
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -65,7 +65,7 @@ docs/zh/get-started/learning-paths.md
 | 2.4.2 | `build/work-with-data/reference-data/` | 已完成 | 引用数据和 item linking |
 | 2.4.3 | `build/work-with-data/transform-data/` 顶层 | 已完成 | 转换数据概览和 expression 转换 |
 | 2.4.4.1 | `build/work-with-data/transform-data/expression-reference/` 短参考页 | 已完成 | BinaryFile、Boolean、CustomData、Date、ExecData、HTTPResponse、Item、NodeInputData、NodeOutputData、PrevNodeData、WorkflowData |
-| 2.4.4.2 | `build/work-with-data/transform-data/expression-reference/` 长参考页 | 未开始 | README、Array、DateTime、Number、Object、Root、String |
+| 2.4.4.2 | `build/work-with-data/transform-data/expression-reference/` 长参考页 | 进行中 | 已完成 Number、Object；README、Array、DateTime、Root、String 待翻译 |
 | 2.4.5 | `build/work-with-data/handle-special-data-types/` | 已完成 | 特殊数据类型 |
 | 2.5 | `build/code-in-n8n/` | 未开始 | Code node 和代码辅助 |
 | 2.6 | `build/integrate-ai/` | 未开始 | AI 集成，文件较多需继续拆分 |
