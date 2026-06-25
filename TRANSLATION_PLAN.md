@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：315
+- 已创建中文 Markdown 文件数：319
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -118,7 +118,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.24 | `integrations/builtin/app-nodes/` 第二十四批 | 已完成 | Google Perspective、Google Slides、Google Tasks、Google Translate |
 | 3.5.25 | `integrations/builtin/app-nodes/` 第二十五批 | 已完成 | Gotify、GoToWebinar、Grafana、Grist |
 | 3.5.26 | `integrations/builtin/app-nodes/` 第二十六批 | 已完成 | Google Workspace Admin、Hacker News、HaloPSA、Harvest |
-| 3.5.27 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.27 | `integrations/builtin/app-nodes/` 第二十七批 | 已完成 | Help Scout、HighLevel、Home Assistant、HubSpot |
+| 3.5.28 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
