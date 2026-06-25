@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：758
+- 已创建中文 Markdown 文件数：763
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -220,7 +220,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.14 | `integrations/builtin/credentials/` 第十四批 | 已完成 | ERPNext、Eventbrite、F5 Big-IP、Facebook App、Facebook Graph API、Facebook Lead Ads |
 | 3.8.15 | `integrations/builtin/credentials/` 第十五批 | 已完成 | Figma、FileMaker、Filescan、Flow、Form.io Trigger、Formstack Trigger |
 | 3.8.16 | `integrations/builtin/credentials/` 第十六批 | 已完成 | Fortinet FortiGate、Freshdesk、Freshservice、Freshworks CRM、FTP、GetResponse |
-| 3.8.17 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.17 | `integrations/builtin/credentials/` 第十七批 | 已完成 | Ghost、Git、GitHub、GitLab、Gong |
+| 3.8.18 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
