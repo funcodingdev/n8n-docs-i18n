@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：575
+- 已创建中文 Markdown 文件数：578
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -181,7 +181,8 @@ docs/zh/get-started/learning-paths.md
 | 3.7.1 | `integrations/builtin/cluster-nodes/` 第一批 | 已完成 | Cluster nodes、Root nodes、AI Agent、AI Agent common issues |
 | 3.7.2 | `integrations/builtin/cluster-nodes/` 第二批 | 已完成 | Conversational Agent、OpenAI Functions Agent、Plan and Execute Agent、ReAct Agent、SQL Agent、Tools Agent |
 | 3.7.3 | `integrations/builtin/cluster-nodes/` 第三批 | 已完成 | Basic LLM Chain、Question and Answer Chain、Q&A common issues、Summarization Chain、LangChain Code、Information Extractor |
-| 3.7.4 | `integrations/builtin/cluster-nodes/` 后续批次 | 未开始 | Cluster node 和 credential |
+| 3.7.4 | `integrations/builtin/cluster-nodes/` 第四批 | 已完成 | Microsoft Agent 365 Trigger、Sentiment Analysis、Text Classifier |
+| 3.7.5 | `integrations/builtin/cluster-nodes/` 后续批次 | 未开始 | Cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
