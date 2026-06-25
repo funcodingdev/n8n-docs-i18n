@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：275
+- 已创建中文 Markdown 文件数：279
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -108,7 +108,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.14 | `integrations/builtin/app-nodes/` 第十四批 | 已完成 | CrateDB、crowd.dev、Customer.io、Databricks |
 | 3.5.15 | `integrations/builtin/app-nodes/` 第十五批 | 已完成 | DeepL、Demio、DHL、Discourse |
 | 3.5.16 | `integrations/builtin/app-nodes/` 第十六批 | 已完成 | Disqus、Drift、Dropbox、Dropcontact |
-| 3.5.17 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.17 | `integrations/builtin/app-nodes/` 第十七批 | 已完成 | E-goi、Elasticsearch、Elastic Security、Emelia |
+| 3.5.18 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
