@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：470
+- 已创建中文 Markdown 文件数：476
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -156,7 +156,7 @@ docs/zh/get-started/learning-paths.md
 | 3.5.62 | `integrations/builtin/app-nodes/` 第六十二批 | 已完成 | Wekan、Wise、WooCommerce、WordPress |
 | 3.5.63 | `integrations/builtin/app-nodes/` 第六十三批 | 已完成 | Xero、Yourls、YouTube、Zammad |
 | 3.5.64 | `integrations/builtin/app-nodes/` 第六十四批 | 已完成 | Zendesk、Zoho CRM、Zoom、Zulip |
-| 3.5.65 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.65 | `integrations/builtin/app-nodes/` 第六十五批 | 已完成 | Alibaba Cloud Model Studio、Anthropic、Google Gemini、MiniMax、Moonshot Kimi、Perplexity |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
