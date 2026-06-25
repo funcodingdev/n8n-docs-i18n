@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：168
+- 已创建中文 Markdown 文件数：171
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -81,7 +81,8 @@ docs/zh/get-started/learning-paths.md
 | 3.4.2 | `integrations/builtin/core-nodes/` 第二批 | 已完成 | Convert to File、Crypto、Date & Time |
 | 3.4.3 | `integrations/builtin/core-nodes/` 第三批 | 已完成 | Debug Helper、Email Trigger (IMAP)、Error Trigger、Evaluation |
 | 3.4.4 | `integrations/builtin/core-nodes/` 第四批 | 已完成 | Edit Image、Evaluation Trigger、Execute Sub-workflow、Execute Sub-workflow Trigger、Execution Data |
-| 3.4.5 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
+| 3.4.5 | `integrations/builtin/core-nodes/` 第五批 | 已完成 | Extract From File、Filter、FTP |
+| 3.4.6 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
 | 3.5 | `integrations/builtin/app-nodes/` | 未开始 | App node 参考，需按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
