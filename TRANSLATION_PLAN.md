@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：111
+- 已创建中文 Markdown 文件数：113
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -70,7 +70,10 @@ docs/zh/get-started/learning-paths.md
 | 2.5.1 | `build/code-in-n8n/` 顶层 | 已完成 | README、使用 Code node、AI 编码、自定义变量 |
 | 2.5.2 | `build/code-in-n8n/use-built-in-shortcuts/` | 已完成 | 内置快捷方式、HTTP node、JMESPath、LangChain Code node、n8n metadata |
 | 2.5.3 | `build/code-in-n8n/cookbook/` | 已完成 | Code cookbook、内置变量示例、Code node 示例、HTTP Request 示例 |
-| 2.6 | `build/integrate-ai/` | 未开始 | AI 集成，文件较多需继续拆分 |
+| 2.6.1 | `build/integrate-ai/` 顶层 | 已完成 | 集成 AI 入口和 AI 示例概览 |
+| 2.6.2 | `build/integrate-ai/understand-ai-components/` | 未开始 | AI 组件概念 |
+| 2.6.3 | `build/integrate-ai/ai-examples/` | 未开始 | AI workflow 示例 |
+| 2.6.4 | `build/integrate-ai/test-and-improve-ai-workflows/` | 未开始 | AI workflow 测试和改进 |
 | 3 | `integrations/` | 未开始 | 文件最多，需按节点类型拆分 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
