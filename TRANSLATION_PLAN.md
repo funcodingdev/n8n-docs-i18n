@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：94
+- 已创建中文 Markdown 文件数：99
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -68,7 +68,7 @@ docs/zh/get-started/learning-paths.md
 | 2.4.4.2 | `build/work-with-data/transform-data/expression-reference/` 长参考页 | 已完成 | README、Array、DateTime、Number、Object、Root、String |
 | 2.4.5 | `build/work-with-data/handle-special-data-types/` | 已完成 | 特殊数据类型 |
 | 2.5.1 | `build/code-in-n8n/` 顶层 | 已完成 | README、使用 Code node、AI 编码、自定义变量 |
-| 2.5.2 | `build/code-in-n8n/use-built-in-shortcuts/` | 未开始 | 内置快捷方式 |
+| 2.5.2 | `build/code-in-n8n/use-built-in-shortcuts/` | 已完成 | 内置快捷方式、HTTP node、JMESPath、LangChain Code node、n8n metadata |
 | 2.5.3 | `build/code-in-n8n/cookbook/` | 未开始 | Code cookbook |
 | 2.6 | `build/integrate-ai/` | 未开始 | AI 集成，文件较多需继续拆分 |
 | 3 | `integrations/` | 未开始 | 文件最多，需按节点类型拆分 |
