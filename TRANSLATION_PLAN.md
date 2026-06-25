@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：395
+- 已创建中文 Markdown 文件数：399
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -138,7 +138,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.44 | `integrations/builtin/app-nodes/` 第四十四批 | 已完成 | OpenWeatherMap、Oracle Database、Oura、Paddle |
 | 3.5.45 | `integrations/builtin/app-nodes/` 第四十五批 | 已完成 | PagerDuty、PayPal、Peekalink、PhantomBuster |
 | 3.5.46 | `integrations/builtin/app-nodes/` 第四十六批 | 已完成 | Philips Hue、Pipedrive、Plivo、PostBin |
-| 3.5.47 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.47 | `integrations/builtin/app-nodes/` 第四十七批 | 已完成 | PostHog、ProfitWell、Pushbullet、Pushcut |
+| 3.5.48 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
