@@ -21,5 +21,6 @@
 - [流程逻辑](build/flow-logic/README.md)
 - [管理工作流](build/manage-workflows/README.md)
 - [理解工作流](build/understand-workflows/README.md)
+- [工作流组件](build/understand-workflows/workflow-components/README.md)
 
 更多页面会按仓库根目录的 `TRANSLATION_PLAN.md` 分批补齐。
