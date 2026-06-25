@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：179
+- 已创建中文 Markdown 文件数：183
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -85,7 +85,8 @@ docs/zh/get-started/learning-paths.md
 | 3.4.6 | `integrations/builtin/core-nodes/` 第六批 | 已完成 | Form Trigger、GraphQL、HTML |
 | 3.4.7 | `integrations/builtin/core-nodes/` 第七批 | 已完成 | Git、If、JWT、LDAP |
 | 3.4.8 | `integrations/builtin/core-nodes/` 第八批 | 已完成 | n8n Form |
-| 3.4.9 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
+| 3.4.9 | `integrations/builtin/core-nodes/` 第九批 | 已完成 | Limit、Local File Trigger、Manual Trigger、Markdown |
+| 3.4.10 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
 | 3.5 | `integrations/builtin/app-nodes/` | 未开始 | App node 参考，需按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
