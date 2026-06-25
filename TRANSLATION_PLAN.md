@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：299
+- 已创建中文 Markdown 文件数：303
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -114,7 +114,8 @@ docs/zh/get-started/learning-paths.md
 | 3.5.20 | `integrations/builtin/app-nodes/` 第二十批 | 已完成 | Ghost、GitHub、GitLab、Gong |
 | 3.5.21 | `integrations/builtin/app-nodes/` 第二十一批 | 已完成 | Google Ads、Google Analytics、Google BigQuery、Google Books |
 | 3.5.22 | `integrations/builtin/app-nodes/` 第二十二批 | 已完成 | Google Business Profile、Google Chat、Google Cloud Firestore、Google Cloud Natural Language |
-| 3.5.23 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
+| 3.5.23 | `integrations/builtin/app-nodes/` 第二十三批 | 已完成 | Google Cloud Realtime Database、Google Cloud Storage、Google Contacts、Google Docs |
+| 3.5.24 | `integrations/builtin/app-nodes/` 后续批次 | 未开始 | App node 参考，按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
