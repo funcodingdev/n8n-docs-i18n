@@ -25,5 +25,6 @@
 - [理解 execution](build/understand-workflows/understand-executions/README.md)
 - [构建工作流的方式](build/ways-of-building-workflows/README.md)
 - [处理数据](build/work-with-data/README.md)
+- [引用数据](build/work-with-data/reference-data/README.md)
 
 更多页面会按仓库根目录的 `TRANSLATION_PLAN.md` 分批补齐。
