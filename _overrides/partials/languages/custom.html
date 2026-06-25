@@ -5,6 +5,7 @@
 <!-- Mind the whitespace, won't be necessary in the future -->
 {% macro override(key) %}{{ {
   "search.config.pipeline": " ", 
+  "select.language.title": "Select language",
 }[key] }}{% endmacro %}
 
 {% macro t(key) %}{{

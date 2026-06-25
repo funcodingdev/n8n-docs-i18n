@@ -38,7 +38,6 @@
             {{ config.site_name }}
           </span>
         </div>
-        </div>
       </div>
     </div>
 
@@ -85,7 +84,11 @@
 
     <!-- Site language selector -->
     {% if config.extra.alternate %}
-      <div class="md-header__option"></form>
+      {% set i18n_prefix = config.extra.i18n.translated_prefix | d("zh/", true) %}
+      {% set translated_language = config.extra.i18n.translated_language | d("zh-Hans", true) %}
+      {% set page_url = page.url | d("", true) %}
+      {% set is_translated_page = page_url.startswith(i18n_prefix) %}
+      <div class="md-header__option">
         <div class="md-select">
           {% set icon = config.theme.icon.alternate or "material/translate" %}
           <button
@@ -97,9 +100,15 @@
           <div class="md-select__inner">
             <ul class="md-select__list">
               {% for alt in config.extra.alternate %}
+                {% set alternate_url = alt.link %}
+                {% if alt.lang == config.extra.i18n.default_language %}
+                  {% set alternate_url = page_url[i18n_prefix | length:] if is_translated_page else page_url %}
+                {% elif alt.lang == translated_language %}
+                  {% set alternate_url = page_url if is_translated_page else i18n_prefix ~ page_url %}
+                {% endif %}
                 <li class="md-select__item">
                   <a
-                    href="{{ alt.link | url }}"
+                    href="{{ alternate_url | url }}"
                     hreflang="{{ alt.lang }}"
                     class="md-select__link"
                   >
