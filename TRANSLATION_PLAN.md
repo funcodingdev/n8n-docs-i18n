@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：198
+- 已创建中文 Markdown 文件数：203
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -89,7 +89,8 @@ docs/zh/get-started/learning-paths.md
 | 3.4.10 | `integrations/builtin/core-nodes/` 第十批 | 已完成 | Merge、n8n、n8n Trigger、No Operation、Read/Write Files from Disk |
 | 3.4.11 | `integrations/builtin/core-nodes/` 第十一批 | 已完成 | Rename Keys、Respond to Webhook、RSS Read、RSS Feed Trigger、Send Email |
 | 3.4.12 | `integrations/builtin/core-nodes/` 第十二批 | 已完成 | Edit Fields (Set)、Sort、Loop Over Items、Split Out、SSE Trigger |
-| 3.4.13 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
+| 3.4.13 | `integrations/builtin/core-nodes/` 第十三批 | 已完成 | SSH、Stop And Error、Summarize、Switch、TOTP |
+| 3.4.14 | `integrations/builtin/core-nodes/` 后续批次 | 未开始 | 其他 Core node 参考 |
 | 3.5 | `integrations/builtin/app-nodes/` | 未开始 | App node 参考，需按服务首字母拆分 |
 | 3.6 | `integrations/builtin/trigger-nodes/`、`cluster-nodes/`、`credentials/` | 未开始 | Trigger、cluster node 和 credential |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
