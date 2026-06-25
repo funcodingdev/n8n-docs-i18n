@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：127
+- 已创建中文 Markdown 文件数：132
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -73,7 +73,7 @@ docs/zh/get-started/learning-paths.md
 | 2.6.1 | `build/integrate-ai/` 顶层 | 已完成 | 集成 AI 入口和 AI 示例概览 |
 | 2.6.2 | `build/integrate-ai/understand-ai-components/` | 已完成 | AI 组件概念、agent、chain、memory、tool、vector 和 RAG |
 | 2.6.3 | `build/integrate-ai/ai-examples/` | 已完成 | API、Google Sheets、网站内容、人工兜底、HITL、$fromAI() 示例 |
-| 2.6.4 | `build/integrate-ai/test-and-improve-ai-workflows/` | 未开始 | AI workflow 测试和改进 |
+| 2.6.4 | `build/integrate-ai/test-and-improve-ai-workflows/` | 已完成 | AI workflow 测试、轻量 evaluation、metric evaluation 和常见问题 |
 | 3 | `integrations/` | 未开始 | 文件最多，需按节点类型拆分 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
