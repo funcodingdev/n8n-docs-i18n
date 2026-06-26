@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：861
+- 已创建中文 Markdown 文件数：867
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -242,7 +242,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.36 | `integrations/builtin/credentials/` 第三十五批 | 已完成 | Motorhead、MQTT、MSG91、MySQL、NASA、Netlify |
 | 3.8.37 | `integrations/builtin/credentials/` 第三十六批 | 已完成 | Netscaler ADC、Nextcloud、NocoDB、Notion、npm、NVIDIA Nemotron |
 | 3.8.38 | `integrations/builtin/credentials/` 第三十七批 | 已完成 | Odoo、Okta、Ollama、One Simple API、Onfleet、OpenAI |
-| 3.8.39 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.39 | `integrations/builtin/credentials/` 第三十八批 | 已完成 | OpenCTI、OpenRouter、OpenWeatherMap、Oracle Database、Oura、Paddle |
+| 3.8.40 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
