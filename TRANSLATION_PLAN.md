@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1027
+- 已创建中文 Markdown 文件数：1038
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -279,7 +279,8 @@ docs/zh/get-started/learning-paths.md
 | 3.9.15 | `integrations/builtin/app-nodes/` 第十五批 | 已完成 | OpenAI README、common issues |
 | 3.9.16 | `integrations/builtin/app-nodes/` 第十六批 | 已完成 | OpenAI audio、conversation、file、video operations |
 | 3.9.17 | `integrations/builtin/app-nodes/` 第十七批 | 已完成 | OpenAI assistant、image、text operations；app-nodes 已完成 |
-| 4 | `deploy/` | 未开始 | 部署与配置 |
+| 4.1 | `deploy/` 入口与 Cloud/host 顶层 | 已完成 | deploy README/SUMMARY、Cloud 入口短页、自托管入口、Community edition、AI starter kit |
+| 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
 | 7 | `privacy-and-security/`、`release-notes/`、`contribute/` | 未开始 | 政策、版本和贡献 |
