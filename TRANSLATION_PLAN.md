@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1046
+- 已创建中文 Markdown 文件数：1050
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -282,6 +282,7 @@ docs/zh/get-started/learning-paths.md
 | 4.1 | `deploy/` 入口与 Cloud/host 顶层 | 已完成 | deploy README/SUMMARY、Cloud 入口短页、自托管入口、Community edition、AI starter kit |
 | 4.2 | `deploy/use-n8n-cloud/configure-cloud/` | 已完成 | Cloud 配置、时区、IP 地址、数据管理、实例所有权或用户名 |
 | 4.3 | `deploy/host-n8n/install-options/` 第一批 | 已完成 | 安装选项入口、npm、Docker |
+| 4.4 | `deploy/host-n8n/install-options/use-a-cloud-provider/` 第一批 | 已完成 | 云平台入口、Heroku、Hetzner、Azure |
 | 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
