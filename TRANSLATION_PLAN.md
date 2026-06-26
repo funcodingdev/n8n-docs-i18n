@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：837
+- 已创建中文 Markdown 文件数：843
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -238,7 +238,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.32 | `integrations/builtin/credentials/` 第三十一批 | 已完成 | Microsoft Agent 365、Microsoft Azure Monitor、Microsoft SQL |
 | 3.8.33 | `integrations/builtin/credentials/` 第三十二批 | 已完成 | Microsoft Entra ID |
 | 3.8.34 | `integrations/builtin/credentials/` 第三十三批 | 已完成 | Milvus、Mindee、MiniMax、Miro、MISP、Mist |
-| 3.8.35 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.35 | `integrations/builtin/credentials/` 第三十四批 | 已完成 | Mistral Cloud、Mocean、monday.com、MongoDB、Monica CRM、Moonshot |
+| 3.8.36 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
