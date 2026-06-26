@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：900
+- 已创建中文 Markdown 文件数：906
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -249,7 +249,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.43 | `integrations/builtin/credentials/` 第四十二批 | 已完成 | Qualys、QuestDB、Quick Base、QuickBooks、RabbitMQ、Raindrop |
 | 3.8.44 | `integrations/builtin/credentials/` 第四十三批 | 已完成 | Rapid7 InsightVM、Recorded Future、Reddit、Redis、Rocket.Chat、Rundeck |
 | 3.8.45 | `integrations/builtin/credentials/` 第四十四批 | 已完成 | S3、Salesforce、Salesmate |
-| 3.8.46 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.46 | `integrations/builtin/credentials/` 第四十五批 | 已完成 | SearXNG、SeaTable、SecurityScorecard、Segment、Sekoia、SendGrid |
+| 3.8.47 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
