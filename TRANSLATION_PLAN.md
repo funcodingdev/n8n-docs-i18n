@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1080
+- 已创建中文 Markdown 文件数：1081
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -290,6 +290,7 @@ docs/zh/get-started/learning-paths.md
 | 4.9 | `deploy/host-n8n/configure-n8n/` 第三批 | 已完成 | external hooks、task runners |
 | 4.10 | `deploy/host-n8n/configure-n8n/` 第四批 | 已完成 | Server CLI / command line reference；configure-n8n 顶层已完成 |
 | 4.11 | `deploy/host-n8n/configure-n8n/basic-configuration/configuration-examples/` 第一批 | 已完成 | 除 Microsoft OAuth 预配置外的短配置示例 |
+| 4.12 | `deploy/host-n8n/configure-n8n/basic-configuration/configuration-examples/` 第二批 | 已完成 | Microsoft OAuth credentials 预配置；configuration-examples 已完成 |
 | 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
