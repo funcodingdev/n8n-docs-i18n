@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1162
+- 已创建中文 Markdown 文件数：1165
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -316,6 +316,7 @@ docs/zh/get-started/learning-paths.md
 | 5.3 | `administer/manage-users-and-access/set-permissions-and-roles-rbac/` | 已完成 | RBAC overview、available roles、projects、custom roles |
 | 5.4 | `administer/manage-users-and-access/verify-user-identity/` 第一批 | 已完成 | identity 入口、2FA、LDAP、OIDC 入口与 troubleshooting |
 | 5.5 | `administer/manage-users-and-access/verify-user-identity/use-oidc/` 第二批 | 已完成 | set up OIDC |
+| 5.6 | `administer/manage-users-and-access/verify-user-identity/use-saml/` 第一批 | 已完成 | SAML 入口、manage users、troubleshooting |
 | 5 | `administer/` | 进行中 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
 | 7 | `privacy-and-security/`、`release-notes/`、`contribute/` | 未开始 | 政策、版本和贡献 |
