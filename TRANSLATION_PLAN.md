@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1008
+- 已创建中文 Markdown 文件数：1010
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -272,6 +272,7 @@ docs/zh/get-started/learning-paths.md
 | 3.9.8 | `integrations/builtin/app-nodes/` 第八批 | 已完成 | Google Sheets README、common issues、document operations |
 | 3.9.9 | `integrations/builtin/app-nodes/` 第九批 | 已完成 | Google Sheets sheet operations |
 | 3.9.10 | `integrations/builtin/app-nodes/` 第十批 | 已完成 | MySQL、Notion、Supabase README 和 common issues |
+| 3.9.11 | `integrations/builtin/app-nodes/` 第十一批 | 已完成 | Postgres README、common issues |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
