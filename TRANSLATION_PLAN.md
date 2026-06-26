@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1114
+- 已创建中文 Markdown 文件数：1115
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -300,6 +300,7 @@ docs/zh/get-started/learning-paths.md
 | 4.19 | `deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/` 第七批 | 已完成 | deployment；use-environment-variables 已完成 |
 | 4.20 | `deploy/host-n8n/configure-n8n/scaling/` 第一批 | 已完成 | handle binary data、control concurrency、fix memory issues、measure performance |
 | 4.21 | `deploy/host-n8n/configure-n8n/scaling/` 第二批 | 已完成 | manage execution data、use external storage |
+| 4.22 | `deploy/host-n8n/configure-n8n/scaling/` 第三批 | 已完成 | enable queue mode；scaling 已完成 |
 | 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
