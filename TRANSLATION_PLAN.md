@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1064
+- 已创建中文 Markdown 文件数：1066
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -287,6 +287,7 @@ docs/zh/get-started/learning-paths.md
 | 4.6 | `deploy/host-n8n/install-options/use-a-cloud-provider/` 第三批 | 已完成 | Google Cloud Run、Docker Compose |
 | 4.7 | `deploy/host-n8n/configure-n8n/` 第一批 | 已完成 | 配置入口、基础配置、owner email、license、scaling、security |
 | 4.8 | `deploy/host-n8n/configure-n8n/` 第二批 | 已完成 | database 选择、user management、环境变量管理实例设置 |
+| 4.9 | `deploy/host-n8n/configure-n8n/` 第三批 | 已完成 | external hooks、task runners |
 | 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
