@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：800
+- 已创建中文 Markdown 文件数：806
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -228,7 +228,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.22 | `integrations/builtin/credentials/` 第二十一批 | 已完成 | Humantic AI、Hunter、Hybrid Analysis、IMAP README/Gmail/Outlook/Yahoo |
 | 3.8.23 | `integrations/builtin/credentials/` 第二十二批 | 已完成 | Imperva WAF、Intercom、Invoice Ninja、Iterable、Jenkins |
 | 3.8.24 | `integrations/builtin/credentials/` 第二十三批 | 已完成 | Jina AI、Jira、Jotform、JWT、Kafka、Keap |
-| 3.8.25 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.25 | `integrations/builtin/credentials/` 第二十四批 | 已完成 | Kibana、Kitemaker、KoboToolbox、LDAP、Lemlist、Lemonade |
+| 3.8.26 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
