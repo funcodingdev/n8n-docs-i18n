@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1141
+- 已创建中文 Markdown 文件数：1147
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -311,7 +311,8 @@ docs/zh/get-started/learning-paths.md
 | 4.30 | `deploy/host-n8n/deploy-as-an-oem-integration/` | 已完成 | OEM deployment、prerequisites、manage workflows；deploy-as-an-oem-integration 已完成 |
 | 4.31 | `deploy/host-n8n/keep-n8n-running/` | 已完成 | logging、monitoring、Grafana、OpenTelemetry、update；keep-n8n-running 已完成 |
 | 4 | `deploy/` | 已完成 | 部署与配置 |
-| 5 | `administer/` | 未开始 | 管理与运维 |
+| 5.1 | `administer/` 入口与 `manage-credentials/` | 已完成 | Administer README/SUMMARY、credential sharing、credential overwrites、external secret stores |
+| 5 | `administer/` | 进行中 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
 | 7 | `privacy-and-security/`、`release-notes/`、`contribute/` | 未开始 | 政策、版本和贡献 |
 
