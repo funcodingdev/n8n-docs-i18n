@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：985
+- 已创建中文 Markdown 文件数：989
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -264,6 +264,7 @@ docs/zh/get-started/learning-paths.md
 | 3.8.58 | `integrations/builtin/credentials/` 第五十七批 | 已完成 | Yourls、Zabbix、Zammad、Zendesk、Zep、Zoho、Zoom、Zscaler ZIA、Zulip |
 | 3.9.1 | `integrations/builtin/app-nodes/` 第一批 | 已完成 | Discord README、common issues |
 | 3.9.2 | `integrations/builtin/app-nodes/` 第二批 | 已完成 | Gmail README、common issues |
+| 3.9.3 | `integrations/builtin/app-nodes/` 第三批 | 已完成 | Gmail draft、label、message、thread operations |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
