@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1129
+- 已创建中文 Markdown 文件数：1132
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -307,6 +307,7 @@ docs/zh/get-started/learning-paths.md
 | 4.26 | `deploy/host-n8n/configure-n8n/security/` 第四批 | 已完成 | JWE token decryption for OAuth 2.0 credentials |
 | 4.27 | `deploy/host-n8n/configure-n8n/security/` 第五批 | 已完成 | redact execution data；security 已完成 |
 | 4.28 | `deploy/host-n8n/install-options/use-a-cloud-provider/` 第四批 | 已完成 | deploy to OpenShift Local (CRC)；use-a-cloud-provider 已完成 |
+| 4.29 | `deploy/host-n8n/understand-the-architecture/` | 已完成 | architecture overview、how n8n works、database structure；understand-the-architecture 已完成 |
 | 4 | `deploy/` | 进行中 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
