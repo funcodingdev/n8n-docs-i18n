@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：816
+- 已创建中文 Markdown 文件数：822
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -232,7 +232,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.26 | `integrations/builtin/credentials/` 第二十五批 | 已完成 | Line、Linear、LingvaNex |
 | 3.8.27 | `integrations/builtin/credentials/` 第二十六批 | 已完成 | LinkedIn |
 | 3.8.28 | `integrations/builtin/credentials/` 第二十七批 | 已完成 | LoneScale、Magento 2、Mailcheck、Mailchimp、MailerLite、Mailgun |
-| 3.8.29 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.29 | `integrations/builtin/credentials/` 第二十八批 | 已完成 | Mailjet、Malcore、Mandrill、Marketstack、Matrix、Mattermost |
+| 3.8.30 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
