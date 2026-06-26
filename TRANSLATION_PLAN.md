@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：930
+- 已创建中文 Markdown 文件数：936
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -254,7 +254,8 @@ docs/zh/get-started/learning-paths.md
 | 3.8.48 | `integrations/builtin/credentials/` 第四十七批 | 已完成 | SIGNL4、Slack、seven、Snowflake、SolarWinds IPAM、SolarWinds Observability SaaS |
 | 3.8.49 | `integrations/builtin/credentials/` 第四十八批 | 已完成 | Splunk、Spotify、SSH、Stackby、Storyblok、Strapi |
 | 3.8.50 | `integrations/builtin/credentials/` 第四十九批 | 已完成 | Strava、Stripe、Supabase、SurveyMonkey、SyncroMSP、Sysdig |
-| 3.8.51 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
+| 3.8.51 | `integrations/builtin/credentials/` 第五十批 | 已完成 | Taiga、Tapfiliate、Telegram、TheHive、TheHive 5、TimescaleDB |
+| 3.8.52 | `integrations/builtin/credentials/` 后续批次 | 未开始 | 继续 credentials 文档 |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
