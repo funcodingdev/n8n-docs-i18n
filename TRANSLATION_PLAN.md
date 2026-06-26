@@ -7,7 +7,7 @@
 当前基线：
 
 - 英文 Markdown 文件数：1402
-- 已创建中文 Markdown 文件数：1020
+- 已创建中文 Markdown 文件数：1024
 - 中文根目录：`docs/zh/`
 
 ## 路径规则
@@ -277,6 +277,7 @@ docs/zh/get-started/learning-paths.md
 | 3.9.13 | `integrations/builtin/app-nodes/` 第十三批 | 已完成 | Telegram README、callback、chat、common issues、file operations |
 | 3.9.14 | `integrations/builtin/app-nodes/` 第十四批 | 已完成 | Telegram message operations |
 | 3.9.15 | `integrations/builtin/app-nodes/` 第十五批 | 已完成 | OpenAI README、common issues |
+| 3.9.16 | `integrations/builtin/app-nodes/` 第十六批 | 已完成 | OpenAI audio、conversation、file、video operations |
 | 4 | `deploy/` | 未开始 | 部署与配置 |
 | 5 | `administer/` | 未开始 | 管理与运维 |
 | 6 | `connect/` | 未开始 | API、MCP、节点开发 |
