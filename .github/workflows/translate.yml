@@ -32,6 +32,7 @@ concurrency:
 jobs:
   translate:
     runs-on: ubuntu-latest
+    environment: test
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
@@ -53,7 +54,7 @@ jobs:
           OVERWRITE: ${{ inputs.overwrite }}
         run: |
           if [[ -z "$OPENAI_BASE_URL" || -z "$OPENAI_MODEL" ]]; then
-            echo '::error::Set repository variables OPENAI_BASE_URL and OPENAI_MODEL.'
+            echo '::error::Set OPENAI_BASE_URL and OPENAI_MODEL in the test environment variables or repository variables.'
             exit 1
           fi
           args=(--limit "$FILE_LIMIT")
