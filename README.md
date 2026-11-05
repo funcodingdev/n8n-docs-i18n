@@ -41,6 +41,8 @@ n8n-docs/
 
 ## Contributing
 
+For Simplified Chinese translations through a custom OpenAI-compatible gateway such as Bifrost, see [the translation setup](I18N.md#使用自定义-openai-兼容中转站翻译).
+
 n8n Docs is open-source. We welcome contributions from the community.
 
 Read the [Contribution Guide](https://docs.n8n.io/contribute/contribution-guide-for-n8n-docs) to find out how to contribute. The guide covers the types of contributions accepted, writing standards, different methods for submitting changes, and the team's review process.

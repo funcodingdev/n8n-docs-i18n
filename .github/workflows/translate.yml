@@ -1,0 +1,95 @@
+name: Translate documentation
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_path:
+        description: English Markdown file or directory
+        type: string
+        default: docs
+        required: true
+      limit:
+        description: Maximum number of files to translate
+        type: number
+        default: 5
+        required: true
+      dry_run:
+        description: Only preview pending files (no API requests)
+        type: boolean
+        default: true
+      overwrite:
+        description: Replace existing translations in the selected path
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: translate-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test translation tool
+        run: python3 -m unittest discover -s _doctools -p 'test_*.py'
+
+      - name: Translate selected documents
+        env:
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BIFROST_VIRTUAL_KEY: ${{ secrets.BIFROST_VIRTUAL_KEY }}
+          SOURCE_PATH: ${{ inputs.source_path }}
+          FILE_LIMIT: ${{ inputs.limit }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          OVERWRITE: ${{ inputs.overwrite }}
+        run: |
+          if [[ -z "$OPENAI_BASE_URL" || -z "$OPENAI_MODEL" ]]; then
+            echo '::error::Set repository variables OPENAI_BASE_URL and OPENAI_MODEL.'
+            exit 1
+          fi
+          args=(--limit "$FILE_LIMIT")
+          if [[ "$DRY_RUN" == 'true' ]]; then args+=(--dry-run); fi
+          if [[ "$OVERWRITE" == 'true' ]]; then args+=(--overwrite); fi
+          python3 _doctools/translate.py "${args[@]}" -- "$SOURCE_PATH"
+
+      - name: Collect translated files
+        if: ${{ always() && !cancelled() }}
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import shutil
+          import subprocess
+
+          commands = [
+              ['git', 'diff', '--name-only', '--diff-filter=AM', '-z', '--', 'docs/zh/'],
+              ['git', 'ls-files', '--others', '--exclude-standard', '-z', '--', 'docs/zh/'],
+          ]
+          files = set()
+          for command in commands:
+              files.update(subprocess.check_output(command).decode().split('\0'))
+          for name in sorted(files - {''}):
+              source = Path(name)
+              target = Path('translation-output') / source
+              target.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy2(source, target)
+          print(f'Collected {len(files - {""})} translated files.')
+          PY
+
+      - name: Upload translations for review
+        if: ${{ always() && !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: translations-${{ github.run_id }}
+          path: translation-output/
+          if-no-files-found: ignore
+          retention-days: 14
