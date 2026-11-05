@@ -47,7 +47,6 @@ jobs:
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          BIFROST_VIRTUAL_KEY: ${{ secrets.BIFROST_VIRTUAL_KEY }}
           SOURCE_PATH: ${{ inputs.source_path }}
           FILE_LIMIT: ${{ inputs.limit }}
           DRY_RUN: ${{ inputs.dry_run }}

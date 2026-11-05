@@ -77,13 +77,13 @@ class TranslateTests(unittest.TestCase):
 		return status, output.getvalue()
 
 	def test_gateway_request_and_mirrored_output(self):
-		os.environ.update(OPENAI_API_KEY="test-bearer", BIFROST_VIRTUAL_KEY="test-virtual")
+		os.environ["OPENAI_API_KEY"] = "test-bearer"
 		status, _ = self.run_cli()
 		self.assertEqual(status, 0)
 		path, headers, body = self.server.requests[0]
 		self.assertEqual(path, "/openai/chat/completions")
 		self.assertEqual(headers["Authorization"], "Bearer test-bearer")
-		self.assertEqual(headers["X-Bf-Vk"], "test-virtual")
+		self.assertNotIn("X-Bf-Vk", headers)
 		self.assertEqual(body["model"], "anthropic/configured-model")
 		self.assertEqual(body["messages"][1]["content"], SOURCE)
 		self.assertFalse(body["stream"])

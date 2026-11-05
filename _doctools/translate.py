@@ -199,8 +199,6 @@ def main(argv=None):
 	headers = {"Content-Type": "application/json", "Accept": "application/json"}
 	if os.getenv("OPENAI_API_KEY"):
 		headers["Authorization"] = "Bearer " + os.environ["OPENAI_API_KEY"]
-	if os.getenv("BIFROST_VIRTUAL_KEY"):
-		headers["x-bf-vk"] = os.environ["BIFROST_VIRTUAL_KEY"]
 
 	failures = 0
 	for index, (source, target) in enumerate(jobs, 1):
